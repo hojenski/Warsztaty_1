@@ -1,0 +1,10 @@
+jest ==== 11
+adam ==== 9
+polski ==== 9
+bielan ==== 9
+złotych ==== 8
+polaków ==== 7
+świecie ==== 7
+mamy ==== 7
+polsce ==== 7
+takiego ==== 6
